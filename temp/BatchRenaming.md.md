@@ -1,11 +1,19 @@
-﻿# Batch Renaming Tools
-In this part I will recommend very useful software "KRename".
+﻿# Steps of donkey car
+In this part we will start from the xxxxxxxxxxxxx very useful software "KRename".
 
-Download Link:
-http://myprogramspace.blogspot.com/2008/07/krename-multi-file-rename-tool-v0.html
+## The following tutorial is based on Linux Ubuntu system
+
+
+The official website of donkey car:
+https://docs.donkeycar.com/
+
+Install Software On Donkeycar
+
 
 Open KRename and select your file path.
 ![](https://img.onl/8wcNl0)
 
 You can select all image, and rename them (Remove or insert).
 ![](https://img.onl/6HvqA)
+
+''' cd '''
