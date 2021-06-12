@@ -20,9 +20,25 @@ $ bash ./Miniconda3-latest-Linux-x86_64.sh
 $ cd project
 $ mkdir donkeycar
 ```
+
 Get the latest donkeycar from Github
+
 ```sh
 $ git clone https://github.com/autorope/donkeycar
 $ cd donkeycar
 $ git checkout master
 ```
+If this is not your first install, update Conda and remove old donkey
+
+```sh
+$ conda update -n base -c defaults conda
+$ conda env remove -n donkey
+```
+Create the Python anaconda environment
+
+```sh
+$ conda env create -f install/envs/ubuntu.yml
+$ conda activate donkey
+$ pip install -e .[pc]
+```
+
