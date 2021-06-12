@@ -20,4 +20,9 @@ $ bash ./Miniconda3-latest-Linux-x86_64.sh
 $ cd project
 $ mkdir donkeycar
 ```
-
+Get the latest donkeycar from Github
+```sh
+$ git clone https://github.com/autorope/donkeycar
+$ cd donkeycar
+$ git checkout master
+```
