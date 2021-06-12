@@ -10,8 +10,6 @@ https://docs.donkeycar.com/
 Install Software On Donkeycar
 
 
-Open KRename and select your file path.
-![](https://img.onl/8wcNl0)
 
 First, open derminal and install miniconda as well as clone the donkey project
 
@@ -19,5 +17,7 @@ First, open derminal and install miniconda as well as clone the donkey project
 $ mkdir project
 $ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 $ bash ./Miniconda3-latest-Linux-x86_64.sh
+$ cd project
+$ mkdir donkeycar
 ```
 
