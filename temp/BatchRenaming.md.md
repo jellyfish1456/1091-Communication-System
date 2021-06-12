@@ -41,4 +41,8 @@ $ conda env create -f install/envs/ubuntu.yml
 $ conda activate donkey
 $ pip install -e .[pc]
 ```
+Optional Install Tensorflow GPU - only for NVidia Graphics cards!!!
 
+```sh
+$ conda install tensorflow-gpu==2.2.0
+```
