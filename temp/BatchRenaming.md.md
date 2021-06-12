@@ -46,3 +46,29 @@ Optional Install Tensorflow GPU - only for NVidia Graphics cards!!!
 ```sh
 $ conda install tensorflow-gpu==2.2.0
 ```
+
+
+## Install donkey car simulator
+https://docs.donkeycar.com/guide/simulator/
+
+Install
+
+```sh
+$ cd
+$ cd project
+$ git clone https://github.com/tawnkramer/gym-donkeycar
+$ cd gym-donkeycar
+$ conda activate donkey
+$ pip install -e .[gym-donkeycar]
+
+```
+
+You may use an existing ~/mycar donkey application, or begin a new one. Here we will start fresh:
+
+```sh
+$ donkey createcar --path ~/mysim
+$ cd ~/mysim
+
+```
+
+
