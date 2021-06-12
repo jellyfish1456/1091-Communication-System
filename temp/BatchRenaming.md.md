@@ -13,8 +13,11 @@ Install Software On Donkeycar
 Open KRename and select your file path.
 ![](https://img.onl/8wcNl0)
 
+First, open derminal and install miniconda as well as clone the donkey project
+
 ```sh
-$ python3 ./multiperson_2d_keypoints_image.py --cfg location of your pretrained config file --checkpoint location of your pretrained checkpoint file --indir location of your data --outdir location of the 2D keypoint JSON output result
+$ mkdir project
+$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+$ bash ./Miniconda3-latest-Linux-x86_64.sh
 ```
 
-''' cd '''
