@@ -13,7 +13,8 @@ Install Software On Donkeycar
 Open KRename and select your file path.
 ![](https://img.onl/8wcNl0)
 
-You can select all image, and rename them (Remove or insert).
-![](https://img.onl/6HvqA)
+```sh
+$ python3 ./multiperson_2d_keypoints_image.py --cfg location of your pretrained config file --checkpoint location of your pretrained checkpoint file --indir location of your data --outdir location of the 2D keypoint JSON output result
+```
 
 ''' cd '''
