@@ -90,7 +90,7 @@ Please first go to the directory of mysim and use the virtue environment
 ```sh
 $ python manage.py drive --model= /home/xxxxxbase on your the directory of your model
 ```
-It will pops up the screen of the simulator.
+It will pop up the screen of the simulator.
   
 Open your browser( Here I use is Google Chrome), and type 
   
