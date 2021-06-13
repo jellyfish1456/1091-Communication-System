@@ -97,4 +97,4 @@ Open your browser( Here I use is Google Chrome), and type
   ```sh
 $ <IP address of host PC>:8887
 ```
-<div align=center><img width="450" height="470" src="https://github.com/christw16/1091-Communication-System/blob/main/temp/%E8%A8%BB%E8%A7%A3%202021-06-13%20150354.jpg"/></div>
+<div align=center><img width="600" height="470" src="https://github.com/christw16/1091-Communication-System/blob/main/temp/%E8%A8%BB%E8%A7%A3%202021-06-13%20150354.jpg"/></div>
