@@ -1,5 +1,5 @@
 ﻿# Steps of donkey car
-In this part we will start from the xxxxxxxxxxxxx very useful software "KRename".
+In this part we will start from how to install packages to training neural network as well as how to utilize this tool.
 
 ## The following tutorial is based on Linux Ubuntu system
 
@@ -7,7 +7,7 @@ In this part we will start from the xxxxxxxxxxxxx very useful software "KRename"
 The official website of donkey car:
 https://docs.donkeycar.com/
 
-Install Software On Donkeycar
+##Install Software On Donkeycar
 
 
 
