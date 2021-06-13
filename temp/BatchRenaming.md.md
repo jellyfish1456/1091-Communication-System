@@ -81,9 +81,20 @@ $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 ## Start driving to collect training data
   
   
+  
+  
 ## Train Neural network
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  
   
 ## How to use pre-trained model to simulate the donkey car
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  
+  
+  
+  
+  
+  
 
 Please first go to the directory of mysim and use the virtue environment
   
