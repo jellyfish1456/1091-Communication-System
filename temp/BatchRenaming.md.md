@@ -78,4 +78,23 @@ $ DONKEY_SIM_PATH = "/home/<user-name>/projects/DonkeySimLinux/donkey_sim.x86_64
 $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 ```
 
-## Install donkey car simulator
+## Start driving to collect training data
+  
+  
+## Train Neural network
+  
+## How to use pre-trained model to simulate the donkey car
+
+Please first go to the directory of mysim and use the virtue environment
+  
+```sh
+$ python manage.py drive --model= /home/xxxxxbase on your the directory of your model
+```
+It will pops up the screen of the simulator.
+  
+Open your browser( Here I use is Google Chrome), and type 
+  
+  ```sh
+$ <IP address of host PC>:8887
+```
+
